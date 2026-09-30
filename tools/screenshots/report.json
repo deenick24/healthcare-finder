@@ -1,0 +1,66 @@
+{
+  "screenshots": {
+    "main": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\01_main_search.png",
+    "facility_card": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\02_facility_list_first_card.png",
+    "map": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\03_map_container.png",
+    "map_with_markers": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\04_map_with_markers.png",
+    "map_after_click": null,
+    "facility_details": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\07_facility_details.png"
+  },
+  "console": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "warn",
+      "text": "Google Maps API key not provided"
+    },
+    {
+      "type": "warn",
+      "text": "Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Google Maps load error Error: Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Google Maps load error Error: Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    }
+  ],
+  "networkErrors": [
+    {
+      "url": "http://localhost:5175/favicon.ico",
+      "status": 404
+    }
+  ],
+  "results": {
+    "mapVisible": true,
+    "markersVisible": true,
+    "markerInteraction": false,
+    "facilityPreview": false,
+    "facilityDetails": true,
+    "nearMe": "NOT_TESTABLE"
+  },
+  "markerSrcs": [
+    "data:image/svg+xml;charset=UTF-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'32'%20height%3D'32'%20viewBox%3D'0%200%2024%2024'%3E%3Cpath%20d%3D'M12%202C8.13%202%205%205.13%205%209c0%205.25%207%2013%207%2013s7-7.75%207-13c0-3.87-3.13-7-7-7z'%20fill%3D'%2310B981'%20stroke%3D'%23ffffff'%20stroke-width%3D'1.5'%20%2F%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml;charset=UTF-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'32'%20height%3D'32'%20viewBox%3D'0%200%2024%2024'%3E%3Cpath%20d%3D'M12%202C8.13%202%205%205.13%205%209c0%205.25%207%2013%207%2013s7-7.75%207-13c0-3.87-3.13-7-7-7z'%20fill%3D'%233B82F6'%20stroke%3D'%23ffffff'%20stroke-width%3D'1.5'%20%2F%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml;charset=UTF-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'32'%20height%3D'32'%20viewBox%3D'0%200%2024%2024'%3E%3Cpath%20d%3D'M12%202C8.13%202%205%205.13%205%209c0%205.25%207%2013%207%2013s7-7.75%207-13c0-3.87-3.13-7-7-7z'%20fill%3D'%2310B981'%20stroke%3D'%23ffffff'%20stroke-width%3D'1.5'%20%2F%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml;charset=UTF-8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'32'%20height%3D'32'%20viewBox%3D'0%200%2024%2024'%3E%3Cpath%20d%3D'M12%202C8.13%202%205%205.13%205%209c0%205.25%207%2013%207%2013s7-7.75%207-13c0-3.87-3.13-7-7-7z'%20fill%3D'%233B82F6'%20stroke%3D'%23ffffff'%20stroke-width%3D'1.5'%20%2F%3E%3C%2Fsvg%3E"
+  ],
+  "verifiedDetected": true,
+  "unverifiedDetected": true
+}

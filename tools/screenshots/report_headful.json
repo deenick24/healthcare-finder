@@ -1,0 +1,59 @@
+{
+  "screenshots": {
+    "initial": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\headful_01_initial.png",
+    "marker_selected": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\headful_02_marker_selected.png",
+    "facility_details": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\headful_03_facility_details.png",
+    "returned": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\headful_04_returned_results.png",
+    "near_me": "C:\\Users\\danni\\Desktop\\Medmap\\tools\\screenshots\\headful_05_nearme.png"
+  },
+  "console": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "warn",
+      "text": "Google Maps API key not provided"
+    },
+    {
+      "type": "warn",
+      "text": "Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Google Maps load error Error: Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Google Maps load error Error: Google Maps API key not provided"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    }
+  ],
+  "networkErrors": [
+    {
+      "url": "http://localhost:5175/favicon.ico",
+      "status": 404
+    }
+  ],
+  "results": {
+    "mapVisible": true,
+    "markersVisible": true,
+    "markerClick": true,
+    "facilityDetails": false,
+    "callAction": "PRESENT",
+    "directionsAction": "PRESENT",
+    "returnedOk": false,
+    "nearMe": "NOT_TESTABLE"
+  }
+}
